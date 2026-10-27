@@ -1,0 +1,8 @@
+body{background-image:url(https://thumbs.dreamstime.com/b/tokyo-city-skyline-landmark-view-warm-tone-sunset-time-f-tokyo-city-skyline-landmark-view-warm-tone-sunset-time-135558642.jpg);background-repeat:no-repeat;background-size:cover}
+h1{font-size:70px;text-align:center;color:rgb(255, 94, 0)}
+h5{text-align:center;font-size:40px;color:white;font-family:monospace}
+#p{font-size:20px;background-color:lightblue;padding:10px;font-family:cursive;color:white;border-radius:5px}
+div{background-color:white;border-radius:5px;padding:7px;margin-right:30%;margin-left:30%;opacity:0.5;margin-top:25px}
+div:hover{opacity:1;margin-right:65%;height:300px}
+h2{color:rgb(114, 7, 133)}
+a{text-decoration:none;font-size:35px}
